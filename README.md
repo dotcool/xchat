@@ -12,6 +12,8 @@
 
 ### ios 下载
  https://apps.apple.com/cn/app/id1558645275
+ ![image](https://user-images.githubusercontent.com/6111056/129548185-4c2353ba-7f08-4550-99dc-672aca04d7aa.png)
+
 
 ### android 下载
 https://app.mi.com/details?id=com.cdbaolan.xchat
