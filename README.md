@@ -16,12 +16,10 @@
 ### android 下载
 https://app.mi.com/details?id=com.cdbaolan.xchat
 
-
-
-![image](https://user-images.githubusercontent.com/6111056/129543978-256613aa-1c27-43ad-bbc2-3c5cf457d653.png)
-![image](https://user-images.githubusercontent.com/6111056/129544003-d1b55acb-4149-444d-bf3c-138cc47b2bb9.png)
-![image](https://user-images.githubusercontent.com/6111056/129544019-51bd91f2-044d-489a-bd04-9fe5115ca4d8.png)
-![image](https://user-images.githubusercontent.com/6111056/129544036-c15a0488-baa1-4e15-83fe-2af7a32a046c.png)
+![image](https://user-images.githubusercontent.com/6111056/129544602-d9f66510-025b-4956-8199-7fbf1974a506.png)
+![image](https://user-images.githubusercontent.com/6111056/129544622-ea75b633-2111-4041-b472-d4ca0495cbd3.png)
+![image](https://user-images.githubusercontent.com/6111056/129544633-447ad505-3d34-4148-8f17-cbda3c4a8df1.png)
+![image](https://user-images.githubusercontent.com/6111056/129544645-895181fc-7116-4cd3-ae02-e5b132783f33.png)
 
 
 
